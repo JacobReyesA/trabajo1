@@ -3,7 +3,7 @@
     "path": "~/GitHub/trabajo1/trabajo1html.qmd",
     "project_path": "trabajo1html.qmd",
     "type": "quarto_markdown",
-    "hash": "3170074217",
+    "hash": "3487533432",
     "contents": "",
     "dirty": false,
     "created": 1711243874102.0,
@@ -19,15 +19,15 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2877:772.7999877929688",
+        "rmdVisualModeLocation": "1915:487.20001220703125",
         "docOutlineSize": "108"
     },
     "folds": "",
-    "lastKnownWriteTime": 1711420117,
+    "lastKnownWriteTime": 1711420744,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1711420117710,
+    "last_content_update": 1711420744748,
     "read_only": false,
     "read_only_alternatives": []
 }
